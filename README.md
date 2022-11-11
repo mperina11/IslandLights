@@ -3,6 +3,9 @@
 ## Scene Description
 Four islands populated by trees and brush are connected by land and bridges surrounded by water. Through day and night the character can find their way by following torches, lanterns, and their own flashlight.
 
+![DayLanters](https://github.com/mperina11/IslandLights/blob/main/Images/DayLanterns.png)
+![NightBridge](https://github.com/mperina11/IslandLights/blob/main/Images/NightBridge.png)
+![NightOuterBridge](https://github.com/mperina11/IslandLights/blob/main/Images/NightOuterBridge.png)
 
 ## Scene Objects / Textures / Materials
 - [Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
