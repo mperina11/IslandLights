@@ -4,7 +4,7 @@
 Four islands populated by trees and brush are connected by land and bridges surrounded by water. Through day and night the character can find their way by following torches, lanterns, and their own flashlight.
 
 ![1-2](https://github.com/mperina11/IslandLights/blob/main/Images/1-2.png)
-![3](https://github.com/mperina11/IslandLights/blob/main/Images/3.png)
+
 ![Mountain](https://github.com/mperina11/IslandLights/blob/main/Images/Mountain.png)
 
 ## Scene Objects / Textures / Materials
